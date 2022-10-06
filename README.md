@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @saransh
-- 👀 I’m interested in web development,data analyst etc
-- 🌱 I’m currently learning comptetive coding
-- 💞️ I’m looking to collaborate on blockchain technology and green computing.
 - 📫 How to reach me https://www.linkedin.com/in/saransh-maurya-314930180/
 
 <!---
